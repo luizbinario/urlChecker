@@ -4,7 +4,6 @@
 * Laravel 8.4
 #### Base de dados
 * Postgresql 12.8
-* Rodar o comando a migration
 ```
-É necessário realizar seu cadastro para a postagem de urls.
+Rodar a migration e realizar seu cadastro para a postagem de urls.
 ```
